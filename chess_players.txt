@@ -1,0 +1,8 @@
+TOPIC:chess players
+Q:Is this player a former World Champion?
+Q:Is this player still active in major competitions?
+A:Magnus Carlsen
+A:Garry Kasparov
+Q:Did this player challenge for the World Championship in 2018?
+A:Fabiano Caruana
+A:Hikaru Nakamura

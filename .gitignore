@@ -1,0 +1,21 @@
+# Compiled Binaries & Executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Temporary / Atomic Save Files
+*.tmp
+*.bak
+*~
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+Thumbs.db
+.DS_Store

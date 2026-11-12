@@ -1,0 +1,12 @@
+TOPIC:Chess Pieces
+Q:Does it move only one square at a time?
+Q:Does it move diagonally?
+A:King
+Q:Can it move in an L-shape?
+A:Knight
+Q:can it only walk diagonally while attacking
+A:pawn
+A:Queen
+Q:Does it move diagonally?
+A:Bishop
+A:Rook

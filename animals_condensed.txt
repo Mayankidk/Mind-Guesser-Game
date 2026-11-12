@@ -1,0 +1,8 @@
+TOPIC:animals
+Q:Does it live in water?
+Q:Is it a mammal?
+A:Dolphin
+A:Fish
+Q:Can it fly?
+A:Bird
+A:Dog

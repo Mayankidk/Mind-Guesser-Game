@@ -1,0 +1,62 @@
+TOPIC:animals
+Q:Does it live primarily in water?
+Q:Is it a warm-blooded mammal?
+Q:Does it stay entirely submerged in the ocean without limbs?
+Q:Is it the largest animal on Earth?
+A:Blue Whale
+A:Dolphin
+Q:Does it have tusks and thick blubber in the Arctic?
+A:Walrus
+Q:Does it bask on rocky shores with flippers?
+A:Seal
+A:Sea Otter
+Q:Does it breathe through gills as a fish or shark?
+Q:Is it an apex predatory shark with sharp teeth?
+A:Great White Shark
+Q:Does it swim vertically with an equine snout?
+A:Seahorse
+A:Clownfish
+Q:Does it have a hard protective outer shell?
+Q:Does it have pincers and walk sideways on the sea floor?
+A:Crab
+A:Sea Turtle
+Q:Does it have eight flexible arms with suction cups?
+A:Octopus
+Q:Does it have five arms and regenerate lost limbs?
+A:Starfish
+Q:is it a reptile?
+A:crocodile
+A:Jellyfish
+Q:Can it fly through the air?
+Q:Is it a mammal that uses echolocation at night?
+A:Bat
+Q:Is it a small insect that pollinates flowers and makes honey?
+A:Honeybee
+Q:Is it a bird of prey with keen eyesight and talons?
+A:Eagle
+Q:Can it mimic human words and speech?
+A:Parrot
+Q:Is it a nocturnal bird that can rotate its head 270 degrees?
+A:Owl
+A:Hummingbird
+Q:Does it walk on four legs?
+Q:Is it a domesticated household pet?
+Q:Does it bark and wag its tail?
+A:Dog
+A:Cat
+Q:Is it a large herbivore with a trunk?
+A:Elephant
+Q:Does it have a very long neck to reach treetops?
+A:Giraffe
+Q:Is it a wild big cat known as King of the Jungle?
+A:Lion
+A:Horse
+Q:Does it slither smoothly on the ground without legs?
+A:Snake
+Q:Does it hop on powerful hind legs with a pouch for its joey?
+A:Kangaroo
+Q:Is it a flightless bird that waddles and swims in freezing oceans?
+A:Penguin
+Q:Is it an intelligent primate that uses tools and builds modern cities?
+A:Human
+A:Chimpanzee

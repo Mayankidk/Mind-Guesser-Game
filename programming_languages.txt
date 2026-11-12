@@ -1,0 +1,20 @@
+TOPIC:programming languages
+Q:Is it primarily used for web browser client-side execution?
+A:JavaScript
+Q:Is it an interpreted scripting language commonly used for AI and Data Science?
+A:Python
+Q:Does it compile directly to native machine code without a virtual machine?
+Q:Does it guarantee memory safety through a borrow checker without a garbage collector?
+A:Rust
+Q:Does it support Object-Oriented programming with classes?
+A:C++
+A:C
+Q:Does it run on the Java Virtual Machine (JVM)?
+Q:Was it created by Sun Microsystems and uses 'public static void main'?
+A:Java
+A:Kotlin
+Q:Is it a declarative query language specifically for relational databases?
+A:SQL
+Q:Is it Microsoft's flagship language designed for the .NET framework?
+A:C#
+A:PHP
